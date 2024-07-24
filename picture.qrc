@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>pic/calculate.png</file>
+        <file>pic/close.png</file>
+        <file>pic/save.png</file>
+    </qresource>
+</RCC>
